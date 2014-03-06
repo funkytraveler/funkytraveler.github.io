@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div xmlns:xalan="http://xml.apache.org/xalan" class="SAM_Book">
+  <div class="CategoryName">Trading</div>
+  <div class="TOC">
+    <ul id="TOC">
+      <li>
+        <a href="#">Getting Started</a>
+        <ul>
+          <li class="nav">
+            <a class="Hypertext" href="Before_You_Begin.htm">Before You Begin</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Introducing_your_workspace.htm">Introducing your workspace</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Creating_Your_First_Workspace.htm">Creating Your First Workspace</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Adding_Widgets_to_Your_Workspace.htm">Adding Widgets to Your Workspace</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">How to Submit Orders</a>
+        <ul>
+          <li class="nav">
+            <a class="Hypertext" href="Using_the_MD_Trader.htm">Using the MD Trader</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Using_the_Market_Grid.htm">Using the Market Grid</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">Managing Orders, Fills, and Positions</a>
+        <ul>
+          <li class="nav">
+            <a class="Hypertext" href="Managing_Your_Order_Book.htm">Managing Your Order Book</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Monitoring_Your_Fills.htm">Monitoring Your Fills</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Tracking_Your_Positions.htm">Tracking Your Positions</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Monitoring_All_Trading_Activity_for_a_Contract.htm">Monitoring All Trading Activity for a Contract</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Checking_Your_Trading_Activity.htm">Checking Your Trading Activity</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">Order Types and Order Restrictions</a>
+        <ul>
+          <li class="nav">
+            <a class="Hypertext" href="Order_Types.htm">Order Types</a>
+          </li>
+          <li class="nav">
+            <a class="Hypertext" href="Order_Restrictions.htm">Order Restrictions</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+<div class="Chapter">
+    <h1 class="ChapterTitle" id="">Getting Started</h1>
+<div class="Map">
+      <div class="main">
+        <div id="title">Before You Begin</div>
+        <a name="Before_You_Begin"/>
+        <h2 class="MapTitle" id="Before_You_Begin">Before You Begin</h2>
+<a name="Create_Your_User_Account"/>
+        <h3 class="LabelHead">Create Your User Account</h3>
+        <p class="">The first step to access
+our new cloud-based trading environment is to create a user account.
+Simply access our home page, click the register button and enter
+your name, email address, and create a password. You will receive
+a notice in your email that your account is now active.</p>
+<a name="Joining_a_Company"/>
+        <h3 class="LabelHead">Joining a Company</h3>
+        <p class="">The next step involves linking
+your account to the Clearing Firm. Login to your account and select
+the Settings gear icon. Select Invitations to view and accept any
+pending invites from your Clearing Firm. Once accepted, your account
+is fully activated and you can immediately begin to trade.</p>
+        <p class="">Note:
+Issues with accessing market data may indicate that the firm needs
+to complete your risk setup. Please contact your Clearing Firm if
+you experience issues on your first login attempt.</p>
+<a name="Take_the_Tour"/>
+        <h3 class="LabelHead">Take the Tour</h3>
+        <p class="">The software includes a Take a Tour
+workspace. Once opened, the tour will give you an introduction to
+the various widgets and available functionality.</p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Introducing your workspace</div>
+        <a name="Introducing_your_workspace"/>
+        <h2 class="MapTitle" id="Introducing_your_workspace">Introducing your workspace</h2>
+<a name="What_is_a_workspace?"/>
+        <h3 class="LabelHead">What is a workspace?</h3>
+        <p class="">A workspace is trading environment
+tailored to your preferences. It contains a collection of widgets
+you use to monitor prices, place orders, track fills, and more.
+You can use create a single workspace for all of your trading, or
+you can create multiple workspaces with widgets suited to specific
+trading needs. For example, you can:</p>
+        <ul list-style-type="">
+          <li>Create separate
+workspaces for different markets, brokers, or customers</li>
+<li>Reflect your changing trading environment</li>
+<li>Create a workspace that has a preformatted Fill window that
+shows specific information</li>
+        </ul>
+        <p class="">For example, here is a workspace
+focused on monitoring and trading the 10-year and 30-year treasury
+notes.</p>
+        <p class="">
+          <img src="Content/GettingStarted1.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="About_the_workspace_title_bar"/>
+        <h3 class="LabelHead">About the workspace title bar</h3>
+        <p class="">At the top of your
+workspace is the title bar. </p>
+        <p class="">
+          <img src="Content/GettingStarted2.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="About_the_workspace_canvas"/>
+        <h3 class="LabelHead">About the workspace canvas</h3>
+        <p class="">Beneath the title bar
+is the workspace canvas, where you can add various widgets.</p>
+        <p class="">
+          <img src="Content/GettingStarted3.jpg">
+            <!---->
+          </img>
+        </p>
+        <p class="">NexTrader
+supplies several widgets that focus on specific trading needs. You
+can add as many widgets as you need to meet your trading needs.</p>
+        <p class=""/>
+        <table border="" frame="border" width="" cellspacing="" align="" class="">
+
+<tr>
+<th colspan="" rowspan="" width="">If you want to ...</th>
+<th colspan="" rowspan="" width="">Add this widget ...</th>
+</tr>
+
+<tbody>
+<tr>
+<td colspan="" rowspan="" width="">Monitor market activity and submit orders for an individual
+instrument</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted4.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">Monitor market activity and submit orders for multiple instruments</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted5.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">Create and launch custom spreads</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted6.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">
+                <p class="">Define rules for quoting and hedging your Autospreader spreads</p>
+              </td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted7.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">Track your order activity</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted8.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">See a historical record of all account activity</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted9.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">
+                <p class="">Track your fills</p>
+              </td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted10.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">
+                <p class="">Monitor your positions</p>
+              </td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted11.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">View all transactions regarding an instrument</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted12.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">Display historical market data in a variety of charts</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted13.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+<tr>
+<td colspan="" rowspan="" width="">View all of the events and system messages</td>
+<td colspan="" rowspan="" width="">
+                <p class="">
+                  <img src="Content/GettingStarted14.jpg">
+                    <!---->
+                  </img>
+                </p>
+              </td>
+</tr>
+</tbody>
+</table>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Creating Your First Workspace</div>
+        <a name="Creating_Your_First_Workspace"/>
+        <h2 class="MapTitle" id="Creating_Your_First_Workspace">Creating Your First Workspace</h2>
+<a name="Creating_a_workspace"/>
+        <h3 class="LabelHead">Creating a workspace</h3>
+        <p class="">Creating a workspace is easy.
+Simply click <b>Create a workspace</b> and give it a name.</p>
+        <p class="">
+          <img src="Content/GettingStarted15.jpg">
+            <!---->
+          </img>
+        </p>
+        <p class="">And your new
+workspace opens.</p>
+        <p class="">
+          <img src="Content/GettingStarted16.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="Changing_the_look_of_your_workspace"/>
+        <h3 class="LabelHead">Changing the look of your workspace</h3>
+        <p class="">If you don’t
+like the workspace background, you can change it.</p>
+        <ol list-style-type="">
+          <li>
+            <p class="">From
+the Settings menu, select <b>Change background</b>.</p>
+            <p class="">
+              <img src="Content/GettingStarted17.jpg">
+                <!---->
+              </img>
+            </p>
+            <p class="">(You might
+be wondering about that <b>Change theme</b> item. We’ll look at
+that one when we talk about launching widgets.)</p>
+          </li>
+<li>
+            <p class="">Browse through the different backgrounds until you find one
+you like.</p>
+            <p class="">
+              <img src="Content/GettingStarted18.jpg">
+                <!---->
+              </img>
+            </p>
+            <p class="">As you select
+different choices, the background dynamically updates.</p>
+            <p class="">
+              <img src="Content/GettingStarted19.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">When you find the one you like, click <b>Close</b>.</p>
+          </li>
+        </ol>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Adding Widgets to Your Workspace</div>
+        <a name="Adding_Widgets_to_Your_Workspace"/>
+        <h2 class="MapTitle" id="Adding_Widgets_to_Your_Workspace">Adding Widgets to Your Workspace</h2>
+<p class="">Now that you have a workspace, you can starting adding the widgets
+you want to use. You can add widgets in two ways:</p>
+<a name="Searching_for_an_instrument_or_product_widget"/>
+        <h3 class="LabelHead">Searching for an instrument or product widget</h3>
+        <p class="">You
+can use Nextrader’s robust search functionality to find an instrument
+or product and launch a widget for it.</p>
+        <ol list-style-type="">
+          <li>
+            <p class="">In the search
+field, start typing the name of a product or instrument. You can
+type a symbol, like <b>ZB</b>, or a description, like <b>treasury</b>.</p>
+            <p class="">As
+you type each character, Nextrader automatically starts displaying
+items that contain your characters.</p>
+            <p class="">
+              <img src="Content/img2020.mif">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">When you see the product or instrument you want to use, hover
+over it to see which widgets you can use for that item. For example,
+if you select an instrument, you will see more widgets than if you
+select a product.</p>
+            <p class="">
+              <img src="Content/GettingStarted21.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">Select the widget you want to add. In this case, you select
+Open MD Trader, so Nextrader adds the widget to your workspace.</p>
+            <p class="">
+              <img src="Content/GettingStarted22.jpg">
+                <!---->
+              </img>
+            </p>
+            <p class="">Notice the
+icon for your widget appears in the workspace title bar. In fact,
+every time you add a widget, its icon is added to the title bar.</p>
+          </li>
+<li>If you want to move it somewhere else, all you have to do is
+drag the widget’s title bar to where you want it.</li>
+        </ol>
+<a name="Adding_a_widget_from_the_widget_menu"/>
+        <h3 class="LabelHead">Adding a widget from the widget menu</h3>
+        <p class="">Alternatively,
+you can add a widget to your workspace by selecting a widget from
+the widget menu.</p>
+        <ol list-style-type="">
+          <li>
+            <p class="">Click the <b>+</b> in the title bar
+to display the widget menu.</p>
+            <p class="">
+              <a target="_blank" href="Content/GettingStarted23.jpg">
+                <img src="Content/GettingStarted23.jpg">
+                  <!---->
+                </img>
+              </a>
+            </p>
+          </li>
+<li>
+            <p class="">Select the widget you want to add. </p>
+            <p class="">In this case, you
+add an MD Trader widget.</p>
+            <p class="">
+              <img src="Content/GettingStarted24.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">As you can see, the MD Trader widget doesn’t have an instrument
+yet. So you need to add the instrument to the widget.</p>
+            <p class="">
+              <img src="Content/GettingStarted25.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">Search for the instrument you want to add to the widget.</p>
+            <p class="">
+              <img src="Content/GettingStarted26.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">Continue adding widgets to complete your workspace, such
+as an Order Book widget.</p> The Order Book widget is not tied to
+an instrument or product, so you don’t have to do anything else
+to use it.<p class="">
+              <img src="Content/GettingStarted27.jpg">
+                <!---->
+              </img>
+            </p>
+          </li>
+<li>
+            <p class="">Arrange the widgets so the workspace looks like you want.</p>
+          </li>
+<li>
+            <p class="">When you are done adding and arranging widgets, save the
+workspace by clicking </p>
+          </li>
+        </ol>
+        <img src="Content/GettingStarted28.jpg">
+          <!---->
+        </img> in the title bar.</div>
+    </div>
+  </div>
+
+<div class="Chapter">
+    <h1 class="ChapterTitle" id="">How to Submit Orders</h1>
+<div class="Map">
+      <div class="main">
+        <div id="title">Using the MD Trader</div>
+        <a name="Using_the_MD_Trader"/>
+        <h2 class="MapTitle" id="Using_the_MD_Trader">Using the MD Trader</h2>
+<a name="Overview"/>
+        <h3 class="LabelHead">Overview</h3>
+        <p class="">The MD Trader Widget allows you to quickly
+submit orders using a familiar market-depth ladder. The MD Trader
+Widget also gives you a complete overview of a particular contact
+including the following:</p>
+        <ul list-style-type="">
+          <li>Net Change: the distance of
+the current price (i.e., inside market) to the contract’s opening
+price.</li>
+<li>High: the contract’s highest trading price for the current session.</li>
+<li>Low: the contract’s lowest trading price for the current session.</li>
+<li>Open: the contract’s opening price.</li>
+<li>Volume: the total number of lots traded.</li>
+        </ul>
+        <p class="">As with
+most widgets, you can access the MD Trader window using one of the
+following methods:</p>
+        <ul list-style-type="">
+          <li>Search for a contract in the Title
+Bar: type the contract’s name in the search box and select Open
+in MD Trader to begin trading.</li>
+<li>Use the plus icon: click the plus (+) icon and select MD Trader.</li>
+        </ul>Right-click
+a contract’s name in the Market Grid: select Open Widget then MD
+Trader.
+<a name="Adding_a_Contract"/>
+        <h3 class="LabelHead">Adding a Contract</h3>
+        <p class="">You can add a contract to any
+opened MD Trader widget by using the new tab button at the bottom
+of the ladder. This opens the Add an Instrument window and allows
+you to either search for a contract or use the instrument explorer.</p>
+        <p class="">You
+can find out more about tabs below.</p>
+<a name="Submitting_Orders"/>
+        <h3 class="LabelHead">Submitting Orders</h3>
+        <p class="">The MD Trader widget allows you
+to set all parameters relating to an order prior to submitting into
+the market.</p>
+<a name="Fill/Position_Indicator"/>
+        <h3 class="LabelHead">Fill/Position Indicator</h3>
+        <p class="">Each time you receive a
+fill, that tab in the MD Trader widget displays your updated position
+in the contract.</p>
+<a name="Tips_and_Tricks:_Centering_the_Market"/>
+        <h3 class="LabelHead">Tips and Tricks: Centering the Market</h3>
+        <p class="">You can recenter
+the MD Trader ladder to focus on the inside market by selecting
+the MD Trader widget and pressing the Space Bar.</p>
+        <p class="">In addition,
+you can recenter all MD Trader ladders in a workspace by right-clicking
+the price ladder in any MD Trader widget.</p>
+<a name="Tips_and_Tricks:_Multiple_Orders_at_the_Same_Price"/>
+        <h3 class="LabelHead">Tips and Tricks: Multiple Orders at the Same Price</h3>
+        <p class="">Users
+often submit multiple orders at the same price level. When this
+occurs, the software shows the total number of your orders at that
+price level.</p>
+        <p class="">You can access and change each separate order
+by pressing the arrow (&gt;) button. This opens a side-drawer which
+shows the different orders. You can then select an individual order
+or ctrl-click and select multiple orders. </p>
+        <p class="">Once selected,
+you can perform a cancel/replace by moving any order to a different
+price level.</p>
+<a name="Reorder_Columns"/>
+        <h3 class="LabelHead">Reorder Columns</h3>
+        <p class="">Click on any column heading in MD
+Trader to move that column to a different place. For example, you
+can place the Last-Traded-Quantity (LTQ) and Working Orders (Work)
+columns side-by-side. </p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Using the Market Grid</div>
+        <a name="Using_the_Market_Grid"/>
+        <h2 class="MapTitle" id="Using_the_Market_Grid">Using the Market Grid</h2>
+<a name="Overview"/>
+        <h3 class="LabelHead">Overview</h3>
+        <p class="">The Market Grid allows you to monitor the
+current market for multiple instruments. You can also quickly submit
+orders by opening the Order Ticket widget directly from the Market
+Grid.</p>
+<a name="Adding_Contracts_and_Products"/>
+        <h3 class="LabelHead">Adding Contracts and Products</h3>
+        <p class="">Add contracts and
+products using one of the following methods:</p>
+        <ul list-style-type="">
+          <li>Single contract:
+simply click a row in the Market Grid to access the Instrument Explorer.
+The selected contract appears in that row.</li>
+<li>Multiple contracts for a product: use the plus (+) button to
+add a tab and select From Product to open a tab containing all available
+contracts for that product.</li>
+        </ul>
+<a name="Submitting_Orders"/>
+        <h3 class="LabelHead">Submitting Orders</h3>
+        <p class="">Clicking a row in the Market Grid
+allows you to open that product in a different widget (including
+MD Trader, Chart, Order Ticket, and Time and Sales). </p>
+        <p class="">For
+rapid order entry, you may click on the BidQty, BidPrc, AskQty,
+or AskPrc column to open an Order Ticket with the selected value
+populated. For more information </p>
+<a name="Submitting_Orders_via_the_Order_Ticket"/>
+        <h3 class="LabelHead">Submitting Orders via the Order Ticket</h3>
+        <p class="">The order
+ticket is currently only accessible via the Market Grid.</p>
+        <p class="">From
+the market grid, you can open an order ticket with a:</p>
+        <p class="">Left-click
+on:</p>
+        <ul list-style-type="">
+          <li>BidQty, BidPrice: open a buy ticket to join the inside
+bid, and zero as the qty</li>
+<li>AskQty, AskPrice: open a sell ticket to join the inside offer,
+and zero as the qty</li>
+        </ul>
+        <p class="">Right-click on:</p>
+        <ul list-style-type="">
+          <li>BidQty:
+open a sell ticket to hit the inside bid and BidQty as the qty</li>
+<li>BidPrice: open a sell ticket to hit the inside bid and zero
+as the qty</li>
+<li>AskQty: open a buy ticket to lift the inside offer and AskQty
+as the qty</li>
+<li>AskPrice: open a buy ticket to lift the inside offer and zero
+as the qty</li>
+<li>Contract -&gt; open order ticket-&gt; get a two-sided ticket where
+the Last Traded Price is pre-populated and zero as the qty</li>
+        </ul>
+        <p class="">The
+order ticket shows the inside market.</p>
+        <p class="">You can click on the
+inside market to adjust the price and quantity fields -- this follows
+the same rules as the market grid.</p>
+        <p class="">Order Tickets can be "docked"
+(Control is in the order tickets’ settings menu).</p>
+      </div>
+    </div>
+  </div>
+
+<div class="Chapter">
+    <h1 class="ChapterTitle" id="">Managing Orders, Fills, and Positions</h1>
+<div class="Map">
+      <div class="main">
+        <div id="title">Managing Your Order Book</div>
+        <a name="Managing_Your_Order_Book"/>
+        <h2 class="MapTitle" id="Managing_Your_Order_Book">Managing Your Order Book</h2>
+<a name="About_the_Order_Book_widget"/>
+        <h3 class="LabelHead">About the Order Book widget</h3>
+        <p class="">You can use the Order
+Book widget to manage your working orders. The widget lists all
+of your working orders and updates them as trading activity occurs.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills29.jpg">
+            <!---->
+          </img>
+        </p>
+        <p class="">With the Order
+Book widget, you can:</p>
+        <ul list-style-type="">
+          <li>Monitor your working orders</li>
+<li>Change the quantity or price of a working order</li>
+<li>Delete single or multiple working orders</li>
+<li>Display a history of an order’s activity</li>
+        </ul>
+<a name="Monitoring_your_working_orders"/>
+        <h3 class="LabelHead">Monitoring your working orders</h3>
+        <p class="">You can use this
+widget to see a list of your orders currently working in the market.
+For each order, you can determine things like the working quantity,
+order type, percent filled, and so on.</p>
+        <p class="">You can also sort or
+filter the list based on values for a column. If you hover the mouse
+cursor over the right side of a column title, the cursor changes
+to a hand to let you know you can use it to change the display.
+For example, you can sort or filter the display by contracts by
+hovering over the <b>Contract</b> column and clicking the mouse.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills30.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="Modifying_an_order"/>
+        <h3 class="LabelHead">Modifying an order</h3>
+        <p class="">You can change the quantity or
+price of a working order by selecting the order you want to change.
+You can change the values and click <b>Change</b>.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills31.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="Deleting_orders"/>
+        <h3 class="LabelHead">Deleting orders</h3>
+        <p class="">To delete working orders, select
+the order or orders you want to delete and click <b>Delete</b>.</p>
+        <p class="">You
+can also delete all of your working orders by clicking <b>Delete
+All</b>. As a precaution, you are asked to confirm deleting all
+working orders.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills32.jpg">
+            <!---->
+          </img>
+        </p>
+        <p class=""> If you do
+not want to confirm these deletes, you can disable the confirmation
+by checking the <b>Do not show this confirmation again option</b>,
+or you can change the setting in the widget configuration.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills33.jpg">
+            <!---->
+          </img>
+        </p>
+<a name="Displaying_historical_activity_for_an_order"/>
+        <h3 class="LabelHead">Displaying historical activity for an order</h3>
+        <p class="">You
+can also display all of the changes made to an order due to trades
+or manual order changes. To display the historical activity, select
+one or more orders and click <b>History</b>. In this case, you can see
+that the order quantity was reduced from 15 to 12.</p>
+        <p class="">
+          <img src="Content/ManageOrdersFills34.jpg">
+            <!---->
+          </img>
+        </p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Monitoring Your Fills</div>
+        <a name="Monitoring_Your_Fills"/>
+        <h2 class="MapTitle" id="Monitoring_Your_Fills">Monitoring Your Fills</h2>
+<p class="">Launching the Fills widget provides you with detailed exchange-confirmed
+fills. The widget includes all fills you received since you created
+your account.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills35.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">You can also export fills to a <b>.csv</b> file. Select the fill
+rows you want to export and right-click in the selection to display
+the <b>Export Rows</b> context menu.</p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Tracking Your Positions</div>
+        <a name="Tracking_Your_Positions"/>
+        <h2 class="MapTitle" id="Tracking_Your_Positions">Tracking Your Positions</h2>
+<p class="">You can launch the Positions widget to track your position (SODs
+and any daily transactions) and P&amp;L across your accounts.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills36.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">You can configure the widget to customize how you want to group
+and order the positions. To change the order of a grouping, drag
+the group up or down as desired.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills37.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">You can easily open the MD Trader widget from the Position widget.
+Right-click on any contract, product, or account and open the widget.
+If you open an MD Trader widget for an item with multiple children,
+an MD Trader widgets opens for each contract. For example, if you
+opened MD Trader from the <b>6E</b> product in the following Positions
+widget, two MD Trader widgets would open for the <b>6E Mar14</b> and <b>6E
+Jun14</b> contracts.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills38.jpg">
+            <!---->
+          </img>
+        </p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Monitoring All Trading Activity for a Contract</div>
+        <a name="Monitoring_All_Trading_Activity_for_a_Contract"/>
+        <h2 class="MapTitle" id="Monitoring_All_Trading_Activity_for_a_Contract">Monitoring All Trading Activity for a Contract</h2>
+<p class="">If you want to see all trades that occurred for a single contract
+during the current trading session, you can launch the <b>Time and
+Sales</b> widget for the contract. </p>
+<p class="">
+          <img src="Content/ManageOrdersFills39.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">By default, the widget displays all transactions for an instrument
+and highlights transactions with quantities greater than 50. You
+can configure the widget to add or remove instruments and to specify
+whether to include or highlight a transaction based on its quantity.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills40.jpg">
+            <!---->
+          </img>
+        </p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Checking Your Trading Activity</div>
+        <a name="Checking_Your_Trading_Activity"/>
+        <h2 class="MapTitle" id="Checking_Your_Trading_Activity">Checking Your Trading Activity</h2>
+<p class="">You can launch the Audit Trail widget to display order and fill
+information, exchange announcements, and error messages that occurred
+since your account was created:</p>
+<ul list-style-type="">
+          <li>
+            <p class="">Order related messages include messages to and from the
+exchange including fills, add/change/delete orders and inquiries.</p>
+          </li>
+<li>
+            <p class="">Exchange announcements include busted trades and pre/post
+opening/closing product activity.</p>
+          </li>
+<li>
+            <p class="">Error messages provide notification of an invalid action.</p>
+          </li>
+        </ul>
+<p class="">
+          <img src="Content/ManageOrdersFills41.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">You can hover over a column name to access filters for the column
+values.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills42.jpg">
+            <!---->
+          </img>
+        </p>
+<p class="">You can also jump to any date and time in the history of the
+account.</p>
+<p class="">
+          <img src="Content/ManageOrdersFills43.jpg">
+            <!---->
+          </img>
+        </p>
+      </div>
+    </div>
+  </div>
+
+<div class="Chapter">
+    <h1 class="ChapterTitle" id="">Order Types and Order Restrictions</h1>
+<div class="Map">
+      <div class="main">
+        <div id="title">Order Types</div>
+        <a name="Order_Types"/>
+        <h2 class="MapTitle" id="Order_Types">Order Types</h2>
+<a name="What_is_an_Order_Type?"/>
+        <h3 class="LabelHead">What is an Order Type?</h3>
+        <p class="BodyChapterLevel">Order
+types allow you to specify how an order behaves when it enters the market.
+For example, you may want an order to immediately fill at the current
+best price (market order) or to only fill at a particular price
+(limit order). </p>
+        <p class="BodyChapterLevel">Order Types differ
+from order restrictions which set how the order behaves during the
+session. For example, an order may delete if not filled by the end of
+the session (Day) or may persist until filled or canceled (GTC).</p>
+<a name="Market"/>
+        <h3 class="LabelHead">Market</h3>
+        <p class="BodyHeadingLevel1">A <b>Market</b> order
+is an order placed without a price with the intention of hitting
+the best Bid or taking the best Offer currently available in the
+market. The order fills at the current best price. </p>
+        <p class="">Market
+orders may partially fill at multiple price levels. </p>
+        <p class="">For example,
+if you submit a 100-lot bid at $15.25 but there are only 10 ask orders
+at the price, you will receive a partial fill at $15.25. The remaining quantity
+of your working order (90-lots) will attempt to fill at each of
+the next best prices (e.g., 15.50, 15.75, etc) until the total order
+fills.</p>
+        <p class="">To place a market order, simply select Market in the
+order types drop-down, set the quantity in the MD Trader widget
+and select the direction you wish to trade.</p>
+<a name="Limits_Orders"/>
+        <h3 class="LabelHead">Limits Orders</h3>
+        <p class="">Limit
+orders allow you to submit an order at a specific limit price. Like
+market orders, limit orders allow for partial fills however, the
+remaining quantity continues to work in the market at the original
+limit price.</p>
+        <p class="">To place a limit order, simply select Limit in
+the order types drop-down, set the quantity in the MD Trader widget
+and select the price level and direction you wish to trade.</p>
+        <p class="">Note:
+Limits differ from Stop Limit which allow you to select a range
+of prices (e.g., number of ticks aways from) near the limit price.</p>
+<a name="Stop_Market"/>
+        <h3 class="LabelHead">Stop Market</h3>
+        <p class="">Stop Market orders allow you to select
+a trigger price which determines when the software submits a market
+order. When the market passes the trigger price, a market order
+enters the market and fills at the best market price.</p>
+        <p class="">The
+order may fill at a worst level than the trigger price and also
+may partially fill at multiple price levels.</p>
+<a name="Stop_Limit"/>
+        <h3 class="LabelHead">Stop Limit</h3>
+        <p class="">Stop Limit orders allow you to select
+a trigger price which determines when the software submits a limit
+order. When the market passes the trigger price, a limit order enters
+the market and fills at the trigger price. </p>
+        <p class="">If partially filled,
+the remaining volume continues to work in the market at the trigger
+price level.</p>
+      </div>
+    </div>
+<div class="Map">
+      <div class="main">
+        <div id="title">Order Restrictions</div>
+        <a name="Order_Restrictions"/>
+        <h2 class="MapTitle" id="Order_Restrictions">Order Restrictions</h2>
+<a name="What_is_an_Order_Restriction?"/>
+        <h3 class="LabelHead">What is an Order Restriction?</h3>
+        <p class="BodyChapterLevel">Order
+restrictions set conditions that determine when an order expiries.
+These are commonly referred as Time-in-Force restrictions.</p>
+        <p class="BodyChapterLevel">For example, an order may delete
+if not filled by the end of the session (Day) or may persist until
+filled or canceled (GTC).</p>
+<a name="GTC"/>
+        <h3 class="LabelHead">GTC</h3>
+        <p class="">Good-til-Cancel (GTC) orders are entered at
+a specific price and may remain working at the exchange through
+multiple sessions until either filled or manually canceled by the
+trader.</p>
+        <p class="">GTC orders allow traders to maintain their position-in-queue
+across multiple trading sessions/dates.</p>
+<a name="Day"/>
+        <h3 class="LabelHead">Day</h3>
+        <p class="">Day orders, also known as Good-til-Day (GTD)
+orders, are entered at a specific price and may remain working at
+the exchange through the end of the current trading day until either
+filled or manually canceled by the trader.</p>
+        <p class="">Day orders allow
+traders to maintain their position-in-queue until the end of the
+trading day.</p>
+      </div>
+    </div>
+  </div>
+</div>
