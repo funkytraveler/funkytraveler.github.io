@@ -1,4 +1,4 @@
-name: Christmas Recipes
+name: Help Topics
 markdown: redcarpet
 pygments: true
-baseurl: http://funkytraveler.github.io/
+baseurl: http://funkytraveler.github.io
