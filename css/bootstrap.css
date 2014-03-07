@@ -26,6 +26,7 @@ nav,
 section,
 summary {
   display: block;
+  max-width: 90%;
 }
 audio,
 canvas,
