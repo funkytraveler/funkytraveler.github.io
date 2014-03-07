@@ -21,8 +21,9 @@
         </li>
         {% endfor %}
 -->
-        <a href="#">Getting Started</a>
-        <ul>
+      <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Getting Stated <b class="caret"></b></a>
+        <ul class="dropdown-menu">
           <li class="nav">
             <a {% if p.url == page.url %}class="active"{% endif %} href="Before_You_Begin.htm">Before You Begin</a>
           </li>
@@ -37,9 +38,9 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="#">How to Submit Orders</a>
-        <ul>
+         <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">How to Submit Orders <b class="caret"></b></a>
+          <ul class="dropdown-menu">
           <li class="nav">
             <a {% if p.url == page.url %}class="active"{% endif %} href="Using_the_MD_Trader.htm">Using the MD Trader</a>
           </li>
@@ -48,9 +49,9 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="#">Managing Orders, Fills, and Positions</a>
-        <ul>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Managing Orders, Fills, and Positions <b class="caret"></b></a>
+          <ul class="dropdown-menu">
           <li class="nav">
             <a {% if p.url == page.url %}class="active"{% endif %} href="Managing_Your_Order_Book.htm">Managing Your Order Book</a>
           </li>
@@ -68,9 +69,9 @@
           </li>
         </ul>
       </li>
-      <li>
-        <a href="#">Order Types and Order Restrictions</a>
-        <ul>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Order Types and Order Restrictions <b class="caret"></b></a>
+          <ul class="dropdown-menu">
           <li class="nav">
             <a {% if p.url == page.url %}class="active"{% endif %} href="Order_Types.htm">Order Types</a>
           </li>
