@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{% include head.html %}\n\n    <h1>{{ page.title }}</h1>\n\n    {{ content }}\n\n{% include foot.html %}",
+			"file": "_layout/default.html",
+			"file_size": 98,
+			"file_write_time": 1394214756000000,
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: start"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"makrdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdownpr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markw",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 633.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andrerussell/funkytraveler.github.io/Debesys.xml",
+		"/Users/andrerussell/funkytraveler.github.io/_includes/nav.html",
+		"/Users/andrerussell/funkytraveler.github.io/css/bootstrap.min.css",
+		"/Users/andrerussell/funkytraveler.github.io/_includes/head.html",
+		"/Users/andrerussell/funkytraveler.github.io/_layouts/default.html",
+		"/Users/andrerussell/funkytraveler.github.io/_config.yml",
+		"/Users/andrerussell/funkytraveler.github.io/Creating_Workspace.html",
+		"/Users/andrerussell/funkytraveler.github.io/Getting_Started.html",
+		"/Users/andrerussell/funkytraveler.github.io/Workspaces.html",
+		"/Users/andrerussell/funkytraveler.github.io/css/bootstrap.css",
+		"/Users/andrerussell/funkytraveler.github.io/_includes/foot.html",
+		"/Users/andrerussell/funkytraveler.github.io/header.html",
+		"/Users/andrerussell/funkytraveler.github.io/_layouts/posts",
+		"/Users/andrerussell/funkytraveler.github.io/Gemfile",
+		"/Users/andrerussell/funkytraveler.github.io/_includes/header.html",
+		"/Users/andrerussell/funkytraveler.github.io/_includes/footer.html",
+		"/Users/andrerussell/funkytraveler.github.io/Snippets/start.sublime-snippet",
+		"/Users/andrerussell/Library/Application Support/Sublime Text 2/Packages/User/start.sublime-snippet",
+		"/Users/andrerussell/funkytraveler.github.io/index.html",
+		"/Users/andrerussell/funkytraveler.github.io/delete.html",
+		"/Users/andrerussell/funkytraveler-github.io/README.md",
+		"/Users/andrerussell/github.io/index.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/mdtrader/templates/next-order-drawer.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/lib/qunit/qunit.js",
+		"/Users/andrerussell/Desktop/TTUS_V7_UM.book.xml",
+		"/Volumes/Group/Documentation/Publish/Gateway/app/TTConvert.xsl",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/mdtrader/templates/Delete",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/mdtrader/templates/Delete.html",
+		"/Users/andrerussell/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/andrerussell/Desktop/Client.xsl",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/audittrail/controller.js",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/audittrail/model/audit-trail-info.js",
+		"/Users/andrerussell/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/marketgrid/templates/add-tab.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/model/entity.py",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/workspace/templates/tour/workspace-tour-audit.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/workspace/templates/tour/workspace-tour-connectionMenu.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/window-manager.js",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/audittrail/templates/audit-trail.html",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/static/scripts/widgets/audittrail/templates/jump-to-date-panel.html",
+		"/Users/andrerussell/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/andrerussell/PycharmProjects/NexTraderWeb/pytrader/services/tour-data.json",
+		"/Users/andrerussell/Desktop/hello.html",
+		"/Volumes/__chifs02_Group/Documentation/Publish/Gateway/app/TTConvert.xsl",
+		"/Volumes/C/Users/arussell/Downloads/Welcome_JA.xml",
+		"/Volumes/C/_Frame/Home/xml/Welcome.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/andrerussell/PycharmProjects/NexTraderWeb"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{% if p.url == page.url %}class=\"active\"{% endif %} ",
+			" class=\"nav\"",
+			"class=\"Hypertext\" ",
+			"<a name",
+			"img",
+			"wcip",
+			"event.log",
+			"error",
+			"uncaught",
+			"for",
+			"beta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layout/default.html",
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true
+}
